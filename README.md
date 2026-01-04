@@ -42,7 +42,7 @@ python main.py
 
 1. **Welcome Screen**: Read the naming conventions and instructions
 2. **Step 1 - Full Health Orb**:
-   - Load your 256x256 image
+   - Load your 256x256 image 
    - Use Circle Crop to crop to a circle
    - Add Ring to add a colored border
    - Use Draw Tools for fine adjustments
@@ -51,7 +51,7 @@ python main.py
    - Upload your full health orb
    - Upload a broken dot reference pattern
    - Use Eraser Tool to clean up artifacts (optional)
-   - Save the 64x64 result
+   - Save the 200x200 result
 4. **Step 2.1 - Low Health Orb**:
    - Same process as Step 2 with a different broken pattern
 5. **Step 2.2 - Final Full Health**:
@@ -123,11 +123,7 @@ Features:
 - Open BDCE (Broken Dot Creator Editor)
 - Reset application
 
-## Contributing to War of the Dots
 
-1. Join the WOD Discord: https://discord.gg/warofdots
-2. Go to the #suggest channel
-3. Message Thegypt to ask Python (the creator) about your skin
 
 **⚠️ Important:** Do NOT harass anyone to add your skin.
 
@@ -139,3 +135,5 @@ Created by Wowthatp for the War of the Dots community.
 
 - **Author**: Wowthatp
 - **Game**: War of the Dots by Tea and Python
+
+
