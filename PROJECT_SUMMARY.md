@@ -40,13 +40,7 @@
 
 That's it! Everything works exactly the same, but the code is now much cleaner.
 
-### What Thalanas Said
 
-> "wait wtf you're only using one file?"
-> "that's bad practice imo, try using different files for different functions"
-> "trust me you'd have better time developing with more files"
-
-**You did it!** ✅
 
 ### File Organization Map
 
