@@ -2,7 +2,6 @@
 
 
 
-
 ### Key Improvements
 
 #### 1. **Organization** 
@@ -74,12 +73,12 @@ Entry Point         → main.py
 
 
 
-### Support
+ Support
 Join WOD Discord: https://discord.gg/warofdots
 GitHub: https://github.com/PixelG-t/wodskin
 discord username: wowthatp 
 
 
 Made by: Wowthat
-Reorganized by: Claude
-Approved by: Thalanas ✅
+
+approve by Tea and Yython 
