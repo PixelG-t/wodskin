@@ -81,4 +81,4 @@ discord username: wowthatp
 
 Made by: Wowthat
 
-approve by Tea and Yython 
+Approve by: Tea and Python 
