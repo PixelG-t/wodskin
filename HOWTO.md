@@ -20,3 +20,5 @@ python main.py
    - Same process as Step 2 with a different broken pattern
 5. **Step 2.2 - Final Full Health**:
    - Upload and save final full health at 200x200
+
+6. - repeat all the step for tank but make tank diffrent from if  
