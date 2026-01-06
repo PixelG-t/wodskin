@@ -23,7 +23,3 @@ python main.py
 
 
 
-
-
-
-6. - repeat all the step for tank but make tank diffrent from if  
