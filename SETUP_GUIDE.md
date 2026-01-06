@@ -4,38 +4,6 @@
 ## What Changed?
 nothing so far
 
-## File Structure
-
-.
-wod_skin_maker/
-├── main.py                 #  Start here - run this file
-├── app.py                  # Main application class
-├── config.py               # All colors, settings, constants
-├── requirements.txt        # Dependencies (just Pillow)
-├── README.md              # Full documentation
-│
-├── ui/                     # User Interface
-│   ├── controls.py        # Button, label helpers
-│   └── windows.py         # Settings, Dev Mode, BDCE
-│
-├── tools/                  # All the tools
-│   ├── circle_crop.py     # Circle cropping
-│   ├── ring_maker.py      # Ring creation
-│   ├── drawing.py         # Drawing & eraser
-│   └── transform.py       # Flip, rotate, zoom
-│
-├── steps/                  # Each workflow step
-│   ├── welcome.py         # Welcome screen
-│   ├── full_health.py     # Step 1
-│   ├── medium_health.py   # Step 2
-│   ├── low_health.py      # Step 2.1
-│   ├── final_health.py    # Step 2.2
-│   └── end_screen.py      # Completion
-│
-└── utils/                  # Utilities
-    ├── image_ops.py       # Image processing
-    └── presets.py         # Preset saving/loading
-
 
 ## How to Run
 
