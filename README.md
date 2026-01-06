@@ -55,7 +55,7 @@ python main.py
 4. **Step 2.1 - Low Health Orb**:
    - Same process as Step 2 with a different broken pattern
 5. **Step 2.2 - Final Full Health**:
-   - Upload and save final full health at 64x64
+   - Upload and save final full health at 200x200
 
 ### Keyboard Shortcuts
 
