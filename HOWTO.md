@@ -11,8 +11,7 @@ A tool for creating custom skins for War of the Dots game.
 - **Ring Maker**: Add customizable colored rings with thickness control
 - **Drawing Tools**: Brush and eraser for fine-tuning
 - **Transform Tools**: Flip horizontal/vertical, rotate 90°, zoom in/out
-- **Broken Effect Creator**: Apply broken dot patterns for damaged health states
-- **BDCE (Broken Dot Creator Editor)**: Create custom broken patterns
+- **Broken Effect Creator**: Apply broken dot patterns for damaged health states 
 - **Settings**: Customizable themes, button sizes, fonts, and more
 - **Developer Mode**: Debug tools and advanced features
 - **Preset System**: Save and load ring configurations
