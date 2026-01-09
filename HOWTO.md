@@ -6,7 +6,9 @@ The process is divided into clear sections, starting from a base orb and ending 
 
 ---
 
-## Section 1: Base Dot/ 100% dot
+## Section 1: Base Dot / 100% dot
+
+![Section 1 – Base Dot](images/step1.png)
 
 This step is where you create your **base dot**, which will be used to generate all other sizes later.
 
@@ -27,6 +29,8 @@ This base dot serves as the foundation for all scaled health orbs.
 ---
 
 ## Section 2: Medium Health Orb (50%)
+
+![Section 2 – Medium Health Orb](images/step2.png)
 
 In this step, you create the **medium (50%) health orb** using your previously saved full health orb.
 
@@ -55,6 +59,8 @@ This file represents the **50% health state**.
 
 ## Section 2.1: Low Health Orb (25%)
 
+![Section 2.1 – Low Health Orb](images/step2.1.png)
+
 This step follows the **same process as Section 2**, but creates the **low (25%) health orb** using a **different broken dot reference**.
 
 ### Steps
@@ -73,6 +79,8 @@ This represents the **lowest health state** and should appear more damaged than 
 ---
 
 ## Section 2.2: Resize to In Game Size
+
+![Section 2.2 – Resize to Game Size](images/2.2.png)
 
 This step prepares the **final full health orb** for in-game use.
 
@@ -93,6 +101,8 @@ This file is used as the **main in-game health orb**.
 
 ## End
 
+![End](images/THE END.png)
+
 You have now completed the full health orb creation workflow.
 
 You should now have:
@@ -102,9 +112,6 @@ You should now have:
 
 ### What to do next
 - Place the saved files into the appropriate `skins` folder.
-- contract Tea and python or theegpt
-
+- Contract Tea and Python or TheEGPT.
 
 ---
-
-
