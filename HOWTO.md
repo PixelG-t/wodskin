@@ -1,4 +1,4 @@
-# HOWTO — WOD Skin Maker
+# HOWTO  WOD Skin Maker
 
 This guide explains how to create custom **health orb skins** for *War of Dots* using the WOD Skin Maker.
 
@@ -6,7 +6,7 @@ The process is divided into clear sections, starting from a base orb and ending 
 
 ---
 
-## Section 1: Base Dot
+## Section 1: Base Dot/ 100% dot
 
 This step is where you create your **base dot**, which will be used to generate all other sizes later.
 
@@ -72,13 +72,13 @@ This represents the **lowest health state** and should appear more damaged than 
 
 ---
 
-## Section 2.2: Resize to In-Game Size
+## Section 2.2: Resize to In Game Size
 
 This step prepares the **final full health orb** for in-game use.
 
 ### Steps
 1. Upload your **full health orb (100%)**.
-2. Resize the image to **200×200 pixels**, which is the required in-game size.
+2. Resize the image to **200×200 pixels**, which is the required in game size.
 3. Ensure the image remains centered and properly aligned.
 4. Click **Save** to finalize.
 
