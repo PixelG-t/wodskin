@@ -113,5 +113,6 @@ You should now have:
 
 ### What to do next
 - create you tank skins
+- then create the enemy dot if and then tank
 
 ---
