@@ -112,7 +112,6 @@ You should now have:
 - A **low health orb** (25%)
 
 ### What to do next
-- Place the saved files into the appropriate `skins` folder.
-- Contract Tea and Python or TheEGPT.
+- create you tank skins
 
 ---
