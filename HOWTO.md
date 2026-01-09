@@ -101,7 +101,8 @@ This file is used as the **main in-game health orb**.
 
 ## End
 
-![End](images/THE END.png)
+![End](images/END.png)
+
 
 You have now completed the full health orb creation workflow.
 
