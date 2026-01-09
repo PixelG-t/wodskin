@@ -12,7 +12,7 @@ The process is divided into clear sections, starting from a base orb and ending 
 
 This step is where you create your **base dot**, which will be used to generate all other sizes later.
 
-- Do **not** worry about final size yet — the image will be resized in later steps.
+- Do **not** worry about final size yet  the image will be resized in later steps.
 - It is **strongly recommended** that your base image is **256×256 pixels**.
   - Using higher resolutions may result in **quality loss** when scaling down.
 
