@@ -1,4 +1,4 @@
-# HOWTO  WOD Skin Maker
+# WOD Skin Maker
 
 This guide explains how to create custom **health orb skins** for *War of Dots* using the WOD Skin Maker.
 
