@@ -1,4 +1,4 @@
-# WOD Skin Maker v1.2
+# WOD Skin Maker v1.3
 
 A tool for creating custom skins for War of the Dots game.
 
@@ -12,8 +12,6 @@ A tool for creating custom skins for War of the Dots game.
 - **Drawing Tools**: Brush and eraser for fine-tuning
 - **Transform Tools**: Flip horizontal/vertical, rotate 90°, zoom in/out
 - **Broken Effect Creator**: Apply broken dot patterns for damaged health states 
-- **Settings**: Customizable themes, button sizes, fonts, and more
-- **Developer Mode**: Debug tools and advanced features
 - **Preset System**: Save and load ring configurations
 
 ## Installation
@@ -50,7 +48,7 @@ See HOWTO.MD
 ### File Naming Convention
 
 **Infantry:**
-- Full health: `if_SKINNAME`
+- Full health: `if1_SKINNAME`
 - Medium health: `if2_SKINNAME`
 - Low health: `if3_SKINNAME`
 
@@ -59,52 +57,7 @@ See HOWTO.MD
 - Medium health: `tank2_SKINNAME`
 - Low health: `tank3_SKINNAME`
 
-## Project Structure
 
-```
-wod_skin_maker/
-├── main.py                 # Entry point
-├── app.py                  # Main application class
-├── config.py               # Configuration and constants
-├── requirements.txt        # Python dependencies
-├── README.md              # This file
-├── ui/
-│   ├── __init__.py
-│   ├── controls.py        # UI helper methods
-│   └── windows.py         # Settings, dev mode, BDCE windows
-├── tools/
-│   ├── __init__.py
-│   ├── circle_crop.py     # Circle cropping tool
-│   ├── ring_maker.py      # Ring maker tool
-│   ├── drawing.py         # Drawing and eraser tools
-│   └── transform.py       # Flip, rotate, zoom tools
-├── steps/
-│   ├── __init__.py
-│   ├── welcome.py         # Welcome screen
-│   ├── full_health.py     # Step 1
-│   ├── medium_health.py   # Step 2
-│   ├── low_health.py      # Step 2.1
-│   ├── final_health.py    # Step 2.2
-│   └── end_screen.py      # Completion screen
-└── utils/
-    ├── __init__.py
-    ├── image_ops.py       # Image processing utilities
-    └── presets.py         # Preset management
-```
-
-## Developer Mode
-
-Access with password: `wowthatis!`
-
-Features:
-- Show debug information
-- View image statistics
-- Show file paths
-- Clear all presets
-- Reset settings
-- Test 64x64 export
-- Open BDCE (Broken Dot Creator Editor)
-- Reset application
 
 
 
