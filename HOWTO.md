@@ -92,8 +92,8 @@ This step prepares the **final full health orb** for in-game use.
 
 ### Naming Convention
 Save the file as:
-- `inf_nameofskin`
-- `tank_nameofskin`
+- `inf1_nameofskin`
+- `tank1_nameofskin`
 
 This file is used as the **main in-game health orb**.
 
