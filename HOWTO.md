@@ -21,7 +21,7 @@ This step is where you create your **base dot**, which will be used to generate 
 2. If needed, use **Circle Crop** to crop the image into a circular shape.
 3. Once cropping is complete, click **Add Ring**.
    - Do not make the ring too thick.
-   - Recommended ring thickness: **16–18 pixels**.
+   - Recommended ring thickness: **4–8 pixels**.
 4. When finished, save the image and proceed to the next step.
 
 This base dot serves as the foundation for all scaled health orbs.
